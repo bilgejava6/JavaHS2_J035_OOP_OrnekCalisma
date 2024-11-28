@@ -74,5 +74,7 @@ public class Runner {
 
         DB.yazarListesi.add(new Yazar("","","",""));
 
+
+        DB.kiralamList.add(kiralama1);
     }
 }
